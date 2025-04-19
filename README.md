@@ -4,11 +4,11 @@ ShortnerX is a simple and efficient URL shortener built with **Next.js** and **M
 -------
 Screenshot
 ---
-![shortnerX UI](./public/Screenshot 2025-04-19 230104.png)
+![shortnerX UI](./public/screen1.png)
 
-![shortnerX UI](./public/Screenshot 2025-04-19 230118.png)
+![shortnerX UI](./public/screen2.png)
 
-![shortnerX UI](./public/Screenshot 2025-04-19 230129.png)
+![shortnerX UI](./public/screen3.png)
 ## 🚀 Features
 
 - 🔒 Shorten long URLs with unique IDs
