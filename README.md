@@ -1,9 +1,14 @@
 # 🔗 ShortnerX - Link Shortener App
 
 ShortnerX is a simple and efficient URL shortener built with **Next.js** and **MongoDB**. It allows users to shorten long URLs and redirect to the original link using a unique short ID.
-
+-------
+Screenshot
 ---
+![shortnerX UI](./public/Screenshot 2025-04-19 230104.png)
 
+![shortnerX UI](./public/Screenshot 2025-04-19 230118.png)
+
+![shortnerX UI](./public/Screenshot 2025-04-19 230129.png)
 ## 🚀 Features
 
 - 🔒 Shorten long URLs with unique IDs
