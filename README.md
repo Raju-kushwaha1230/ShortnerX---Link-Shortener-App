@@ -30,4 +30,4 @@ Screenshot
 ## 📁 Project Structure
 Developer : Raju Kushwaha
 
-You can contribute by doing fork 
+You can contribute
